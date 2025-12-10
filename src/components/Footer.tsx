@@ -78,7 +78,7 @@ export default function Footer() {
           </div>
           <div className="text-center">
             <p className="text-gray-400">
-              &copy; 2024 CodeInvent. All rights reserved.
+              &copy; 2025 CodeInvent. All rights reserved.
             </p>
           </div>
         </div>
